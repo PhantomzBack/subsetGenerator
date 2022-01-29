@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1587376488 source:d:\backup\code\subsetgenerator\main.c
+	<stdio.h>
+
+1587376358 source:d:\backup\code\subsetgenerator\src\subsetgenerator.cpp
+	<stdio.h>
+
